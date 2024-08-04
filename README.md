@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/images/apj.jpg" width="200" style="border-radius: 2rem">
+    <img src="./src/images/apj.jpg" width="200" style="border-radius: 1rem">
     <h1>A.P.J. Abdul Kalam Tribute Page</h1>
 </div>
 
