@@ -7,6 +7,8 @@
 
 This project is a tribute to Dr. A.P.J. Abdul Kalam, one of India's most revered scientists and the 11th President of India. Known as the "Missile Man of India," Dr. Kalam made significant contributions to India's space and missile programs.
 
+## Link -> **[View Project](https://anirudha-8.github.io/Tribute_Page/)**
+
 ## Project Overview
 
 The tribute page features:
